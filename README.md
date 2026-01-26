@@ -1,39 +1,36 @@
-# Kids Art Book 🎨
+Kids Art Book 🎨
 
-This is a digital art book or an educational website created for children. Kids can view various images and get an introduction to basic art concepts.
+This is a digital art book website designed for children to explore and learn basic art concepts. Kids can view different images and engage with creative activities.
 
-## ✨ Key Features:
-* **Easy-to-use Interface:** Designed simply to be child-friendly.
-* **Image Collection:** Includes various types of educational images.
-* **Responsive Design:** Looks great on both mobile devices and computers.
+✨ Main Features:
 
-## 🛠️ Technologies Used:
-* **HTML5:** For building the website's main structure.
-* **CSS3:** For styling and making the website visually appealing.
+Easy User Interface: Designed to be simple and child-friendly.
 
-## 🚀 How to View:
+Image Collection: Uses various educational images.
+
+Responsive Design: Works beautifully on both mobile and desktop devices.
+
+
+🛠️ Technologies Used:
+
+HTML5: For building the website structure.
+
+CSS3: For styling and design.
+
+
+🚀 How to View:
+
 1. Download the files from this repository.
-2. Open the `index.html` file in your web browser.  
-*(Or if GitHub Pages is set up, you can visit the live site at: [Your Live Link Here])*  
 
-## 📂 File Structure:
-## 🖼️ Preview of Images:
 
-### Colors, Shapes & Lines
-![Colors, Shapes & Lines](assets/Colors-Shapes-Lines.png)
+2. Open the index.html file in your browser.
 
-### Fun Drawing Activities
-![Fun Drawing Activities](assets/Fun-Drawing-Activities.png)
 
-### Step-by-Step Animal Drawing
-![Step-by-Step Animal Drawing](assets/Step-by-Step-Animal-Drawing.png)
 
-### Dream House Drawing
-![Dream House Drawing](assets/Dream-House-Drawing.png)
+Or you can access the digital art book directly through Gumroad: Get the Kids Art Book on Gumroad
 
-### Celebrate Your Art
-![Celebrate Your Art](assets/Celebrate-Your-Art.png)
+📂 File Structure:
 
----
+index.html - Main page.
 
-Created with ❤️ for children to explore art and creativity!
+assets/ - Images and other resources.
