@@ -1,27 +1,29 @@
+
 # Kids Art Book 🎨
 
-This is a digital art book / educational website designed for children. Kids can explore various illustrations and learn the basics of art in a fun and interactive way.
+A digital art book designed for children, providing a fun and educational website. Kids can explore different images and learn the basics of art and creativity.
 
 ## ✨ Key Features:
-* **Easy User Interface:** Designed to be child-friendly and simple to navigate.
-* **Image Collection:** Includes a variety of educational illustrations.
-* **Responsive Design:** Optimized for both mobile and desktop devices.
+* **Easy User Interface:** Designed to be kid-friendly and simple to navigate.
+* **Image Collection:** Includes various educational images for learning.
+* **Responsive Design:** Looks great on both mobile and desktop devices.
 
 ## 🛠️ Technologies Used:
-* **HTML5:** For website structure.
+* **HTML5:** For the main structure of the website.
 * **CSS3:** For styling and visual design.
 
 ## 🚀 How to View:
-1. Download or clone the files from this repository.
-2. Open the `index.html` file in your browser.
-*(After deploying via GitHub Pages, your live link will be available here.)*
+1. Download the files from this repository.
+2. Open the `index.html` file in your browser.  
+*(Or view it live using GitHub Pages: [Live Preview](https://hasanshayed926-ui.github.io/kids-art-book/))*
 
-### 💰 Purchase the Book:
-Get the book directly from Gumroad: [Buy Now for $5](https://hasanshay.gumroad.com/l/gcdfsm?wanted=true)
+### 💰 Buy the Book:
+Get the book instantly on Gumroad: [Buy Now for $5](https://hasanshay.gumroad.com/l/gcdfsm?wanted=true)
 
 ## 📂 File Structure:
-* `index.html` - Main page of the website
-* `assets/` - Folder containing images and other resources
-
 ## 🌐 Live Preview:
-*(Your GitHub Pages link will appear here once deployed. For example: `https://username.github.io/kids-art-book/`)*
+Check the live version of the website here: [https://hasanshayed926-ui.github.io/kids-art-book/](https://hasanshayed926-ui.github.io/kids-art-book/)
+
+---
+
+Feel free to share this link with anyone interested in exploring this fun kids' art book online!
