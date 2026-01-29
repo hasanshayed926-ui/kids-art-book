@@ -1,4 +1,3 @@
-
 # Kids Art Book – Fun Drawing & Activity Book for Kids (Ages 4–8)
 
 A creative and educational **kids art book** with drawing activities, step-by-step guides, and fun illustrations. Perfect for young learners aged 4–8!
@@ -16,12 +15,6 @@ A creative and educational **kids art book** with drawing activities, step-by-st
 * Step-by-step animal drawing pages  
 * Dream house and celebration art pages  
 * Printable and interactive digital PDF  
-
----
-
-## 🛠️ Technologies Used
-* HTML5  
-* CSS3  
 
 ---
 
@@ -54,8 +47,4 @@ A creative and educational **kids art book** with drawing activities, step-by-st
 ## ❤️ Support & Share
 If you enjoy this project, please consider buying the book and sharing with parents, teachers, or anyone who loves kids’ art!  
 
-Your support helps us create more creative learning tools for children. 🌟
-
----
-
-**Tags / Topics:** Kids Art, Drawing Activities, Educational Book, Creative Learning, Ages 4-8, Activity Book, Coloring Book, Digital Book, Gumroad, Children’s Art
+**Tags:** Kids Art, Drawing Activities, Educational Book, Creative Learning, Ages 4-8, Activity Book, Coloring Book, Digital Book, Gumroad
