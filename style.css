@@ -1,0 +1,25 @@
+body {
+  font-family: 'Baloo 2', cursive;
+  margin: 0;
+  background: #fff8f0;
+  text-align: center;
+}
+header {
+  background: #ffb347;
+  padding: 60px 20px;
+}
+.btn {
+  background: #ff6f61;
+  color: #fff;
+  padding: 15px 30px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 18px;
+}
+section {
+  padding: 40px 20px;
+}
+footer {
+  background: #ffb347;
+  padding: 20px;
+}
